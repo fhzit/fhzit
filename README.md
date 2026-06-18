@@ -69,7 +69,7 @@
 - Email：<admin@hellofhz.top>
 - Website：<https://www.hellofhz.top>
 - Digital Card：<https://bonjour.bio/hellofhz>
-
+- 我的爱发电主页：<https://ifdian.com/a/hellofhz>
 ---
 
 ```java
